@@ -45,6 +45,6 @@ def BannerGeneration():
              file.close()
              
     except:
-          console.print("[bold red][!] 28109513818 HAYDAR YILGIN 15.10.1992")
+          console.print("[bold red] 28109513818 HAYDAR YILGIN 15.10.1992")
 
 BannerGeneration()
